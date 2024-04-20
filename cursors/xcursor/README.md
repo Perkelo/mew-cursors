@@ -3,6 +3,7 @@ List of XCursor files to be placed here
 
 * arrow.xcursor - Arrow (default)
 * busy.xcursor - Loading spinner
+* cross.xcursor - Crosshair
 * ew.xcursor - East / West resize
 * helpsel.xcursor - Arrow + question mark
 * link.xcursor - Link / Hand
