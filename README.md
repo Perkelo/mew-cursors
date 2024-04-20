@@ -27,3 +27,6 @@ By default, this will look into `~/.icons`. If you installed it into a different
 
 ## Manual uninstallation
 Remove the directory you created during installation.
+
+## Thanks
+This cursor theme was made by Noodles at http://www.rw-designer.com/cursor-set/mew-animated
