@@ -20,6 +20,7 @@ else
 
         *)
             echo "Unrecognized option \"$1\""
+            exit 1
         ;;
     esac
 fi
